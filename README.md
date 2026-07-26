@@ -199,7 +199,7 @@ Server-Side Rendering
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=nayra-singh&hide_border=true" />
 
 </div>
 
@@ -209,7 +209,7 @@ Server-Side Rendering
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nayra-singh&hide_border=true&area=true" />
 
 </div>
 
