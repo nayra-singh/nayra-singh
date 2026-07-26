@@ -10,13 +10,13 @@
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nayra-singh/)">
   <img src="https://img.shields.io/badge/LinkedIn-Nayra%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="YOUR_LEETCODE_URL">
   <img src="https://img.shields.io/badge/LeetCode-1522-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:singhnayra364@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -266,7 +266,7 @@ Server-Side Rendering
 
 <div align="center">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nayra-singh-027250294/)">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nayra-singh)">
 <img src="https://img.shields.io/badge/LinkedIn-Nayra_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -286,6 +286,6 @@ Server-Side Rendering
 
 ### ⭐ Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=nayra-singh&style=for-the-badge)
 
 </div>
