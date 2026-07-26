@@ -4,41 +4,46 @@
 
 # Hi 👋, I'm Nayra Singh
 
-### 👩‍💻 ECE Undergraduate | Full-Stack Developer | Problem Solver
+### 👩‍💻 ECE Undergraduate | IoT & Full-Stack Developer | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+ECE+%40+MMMUT;Full-Stack+Development+Enthusiast;Java+%7C+JavaScript+%7C+React+%7C+Next.js;Exploring+Cloud+%26+Generative+AI;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&lines=B.Tech+ECE+%40+MMMUT;IoT+%26+Embedded+Systems+Enthusiast;Building+with+ESP32+%26+RFID;Full-Stack+Development+with+Next.js;PostgreSQL+%7C+REST+APIs+%7C+Docker;Turning+Hardware+Ideas+into+Software+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nayra-singh/)">
+<a href="https://www.linkedin.com/in/nayra-singh">
   <img src="https://img.shields.io/badge/LinkedIn-Nayra%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-1522-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+
 <a href="mailto:singhnayra364@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/nayra-singh">
+  <img src="https://img.shields.io/badge/GitHub-nayra--singh-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 I'm **Nayra Singh**, a B.Tech student in **Electronics and Communication Engineering** at **Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur**.
 
-I enjoy solving problems and building web applications while continuously strengthening my foundations in **Data Structures & Algorithms, Java, SQL, and Full-Stack Development**.
+I'm interested in combining my **Electronics & Communication Engineering background with software development** to build practical systems involving **IoT, embedded systems, web technologies, databases, and cloud-connected applications**.
 
 - 🎓 Pursuing **B.Tech in Electronics & Communication Engineering**
 - 🏫 Studying at **MMMUT, Gorakhpur**
-- 💻 Interested in **Full-Stack Development**
-- 🧠 Practicing **Data Structures & Algorithms**
+- 🔌 Interested in **IoT & Embedded Systems**
+- 💻 Exploring **Full-Stack Development**
+- 🌐 Building applications using **Next.js & TypeScript**
+- 🗄️ Strengthening **SQL & Database Fundamentals**
+- ⚙️ Working with **ESP32, RFID & Sensors**
 - ☁️ Exploring **Cloud Technologies**
 - 🤖 Learning **Generative AI**
-- 🌱 Currently strengthening **Java, SQL & Web Development**
-- ⚡ Interested in turning ideas into practical software projects
-- 🤝 Open to learning, collaboration and challenging opportunities
+- 🛠️ Interested in connecting **hardware with real-world software systems**
+- 🌱 Continuously learning and building practical projects
+- 🤝 Open to collaboration and challenging opportunities
 
 ---
 
@@ -48,11 +53,29 @@ I enjoy solving problems and building web applications while continuously streng
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,js,python" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp" />
 
 </p>
 
-**Java • JavaScript • Python • SQL**
+**Java • JavaScript • TypeScript • Python • C/C++ • SQL**
+
+---
+
+## 🔌 IoT & Embedded Systems
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+
+<img src="https://img.shields.io/badge/RFID-00599C?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Sensors-4CAF50?style=for-the-badge" />
+
+</p>
+
+**ESP32 • RFID • Sensors • GPIO • SPI • Wi-Fi • IoT Fundamentals**
 
 ---
 
@@ -60,11 +83,23 @@ I enjoy solving problems and building web applications while continuously streng
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,ts" />
 
 </p>
 
-**HTML5 • CSS3 • Tailwind CSS • React.js • Next.js**
+**HTML5 • CSS3 • Tailwind CSS • React.js • Next.js • TypeScript**
+
+---
+
+## ⚙️ Backend & APIs
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,postman" />
+
+</p>
+
+**Next.js Route Handlers • Node.js • REST APIs • JSON • API Integration**
 
 ---
 
@@ -72,15 +107,15 @@ I enjoy solving problems and building web applications while continuously streng
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
 
 </p>
 
-**MongoDB • SQL**
+**PostgreSQL • MySQL • MongoDB • Prisma ORM • SQL**
 
 ---
 
-## ☁️ Cloud & Development Tools
+## ☁️ Cloud, DevOps & Development Tools
 
 <p align="left">
 
@@ -92,94 +127,189 @@ I enjoy solving problems and building web applications while continuously streng
 
 ---
 
-## 🧠 Core Concepts
+# 🧠 Core Concepts
 
 ```text
-Data Structures & Algorithms
+Internet of Things (IoT)
+Embedded Systems Fundamentals
+RFID Technology
+Sensor Integration
+GPIO
+SPI Communication
+REST API Design
+HTTP & JSON
+Database Design
+Relational Databases
 Object-Oriented Programming
-Database Fundamentals
-REST API Fundamentals
+Authentication & Authorization
 Responsive Web Development
-Server-Side Rendering
+Git Version Control
+Docker Fundamentals
 ```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎵 Dieknobeats
+## 🎓 AttendX — Smart RFID Attendance Management System
 
-> A full-stack web application built using **Next.js and MongoDB**, focused on modern web-development practices and application performance.
-
-### 🔧 Tech Stack
-
-`Next.js` `JavaScript` `MongoDB` `AWS`
-
-### ✨ Highlights
-
-- ⚡ Implemented **Server-Side Rendering (SSR)**
-- 🛣️ Implemented **dynamic routing using Next.js**
-- 🗄️ Worked with **MongoDB schema design**
-- 🔍 Applied **database indexing** for query optimisation
-- ☁️ Worked with **AWS-based backend logging and monitoring**
-- 🛠️ Focused on debugging and application reliability
-
-<p>
-<a href="YOUR_DIEKNOBEATS_GITHUB_URL">
-<img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="YOUR_DIEKNOBEATS_LIVE_URL">
-<img src="https://img.shields.io/badge/Live_Demo-Visit_Site-success?style=for-the-badge&logo=vercel" />
-</a>
-</p>
-
----
-
-## 🖼️ Image Search Engine
-
-> A responsive image-search application that retrieves real-time image data through external API integration.
+> An **IoT-based smart attendance management system** combining ESP32, RFID technology, REST APIs, PostgreSQL, and a modern web dashboard to automate and manage attendance.
 
 ### 🔧 Tech Stack
 
-`HTML5` `CSS3` `JavaScript` `Fetch API` `REST API`
+`ESP32` `RFID` `C/C++` `Next.js` `TypeScript` `PostgreSQL` `Prisma` `REST API`
+
+### 🏗️ System Architecture
+
+```text
+RFID Card / Tag
+       ↓
+MFRC522 RFID Reader
+       ↓
+      SPI
+       ↓
+     ESP32
+       ↓
+     Wi-Fi
+       ↓
+    REST API
+       ↓
+Next.js Application
+       ↓
+ Prisma ORM
+       ↓
+ PostgreSQL
+       ↓
+Attendance Dashboard
+```
 
 ### ✨ Highlights
 
-- 🔎 Implemented dynamic image-search functionality
-- 🌐 Integrated an external image API
-- ⚡ Used **Fetch API** for asynchronous requests
-- 🧩 Used **DOM manipulation** for dynamic content rendering
-- 📱 Built a responsive user interface
+- 🔖 RFID-based student identification
+- ⚡ ESP32-based attendance terminal
+- 🔄 Hardware-to-server communication using REST APIs
+- 📡 Wi-Fi-based IoT communication
+- 👨‍🎓 Student and attendance management
+- 👨‍🏫 Faculty attendance-session management
+- 🗄️ PostgreSQL-backed attendance records
+- 🔐 Role-based authentication and authorization
+- 🛡️ Duplicate-attendance prevention
+- 📊 Attendance monitoring and analytics
+- 🖥️ Web-based management dashboard
+- 📝 Hardware and installation documentation
+
+### 💡 Engineering Concepts
+
+`RFID` • `SPI` • `ESP32` • `IoT` • `REST APIs` • `Database Design` • `RBAC` • `Embedded Systems`
 
 <p>
-<a href="YOUR_IMAGE_SEARCH_GITHUB_URL">
-<img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" />
+
+<a href="[YOUR_ATTENDX_GITHUB_URL](https://github.com/nayra-singh/attendx-smart-attendance)">
+<img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_IMAGE_SEARCH_LIVE_URL">
-<img src="https://img.shields.io/badge/Live_Demo-Visit_Site-success?style=for-the-badge" />
+<a href="localhost">
+<img src="https://img.shields.io/badge/Live_Demo-Visit_Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 </p>
+
+> ⚠️ **Project Status:** Update this section according to the actual implementation and physical hardware testing status.
 
 ---
 
-# 🏆 Coding & Achievements
+## 🅿️ ParkSense — IoT Smart Parking & Real-Time Monitoring System
 
-<div align="center">
+> An **IoT-powered smart parking system** designed to detect parking-space occupancy using ESP32 and sensors while providing real-time parking availability through a web dashboard.
 
-| 🏅 Achievement | 📊 Progress |
-|:---|:---:|
-| LeetCode Contest Rating | **1522** |
-| LeetCode Ranking | **Top 38%** |
-| DSA Problems Solved | **100+** |
-| Coding Contests Participated | **75+** |
+### 🔧 Tech Stack
 
-</div>
+`ESP32` `C/C++` `IoT` `Sensors` `Next.js` `TypeScript` `PostgreSQL` `REST API`
 
-### 🧠 Problem-Solving Focus
+### 🏗️ System Architecture
 
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Searching` • `Sorting` • `Problem Solving`
+```text
+      Vehicle
+         ↓
+   Parking Space
+         ↓
+ Distance Sensor
+         ↓
+       ESP32
+         ↓
+       Wi-Fi
+         ↓
+     REST API
+         ↓
+ Next.js Backend
+         ↓
+    PostgreSQL
+         ↓
+Real-Time Dashboard
+```
+
+### ✨ Highlights
+
+- 🚗 Parking-space occupancy detection
+- 📡 ESP32-based IoT monitoring
+- 📏 Sensor-based distance measurement
+- ⚙️ Configurable occupancy thresholds
+- 🧠 Sensor filtering and state stabilisation
+- 🔄 Device-to-server communication
+- 🟢 Available / Occupied slot monitoring
+- ⚠️ Sensor-error and unknown-state handling
+- ❤️ Device heartbeat and online/offline monitoring
+- 📊 Historical occupancy analytics
+- 📈 Parking utilisation monitoring
+- 🖥️ Real-time parking dashboard
+- 🔐 Device authentication
+- 🗄️ PostgreSQL-backed parking-event storage
+
+### 💡 Engineering Concepts
+
+`Sensors` • `GPIO` • `ESP32` • `IoT` • `Distance Measurement` • `Signal Filtering` • `REST APIs` • `Database Design`
+
+<p>
+
+<a href="[YOUR_PARKSENSE_GITHUB_URL](https://github.com/nayra-singh/parksense-smart-parking)">
+<img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="127.0.0.1">
+<img src="https://img.shields.io/badge/Live_Demo-Visit_Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
+
+> ⚠️ **Project Status:** Update this section according to the actual implementation and physical hardware testing status.
+
+---
+
+# 🔗 ECE + Software Development
+
+One of my primary interests is connecting **electronics with software engineering**.
+
+```text
+                    ECE
+                     │
+          ┌──────────┴──────────┐
+          ↓                     ↓
+   Embedded Systems          Software
+          │                     │
+       ESP32                 Next.js
+          │                     │
+    RFID / Sensors          REST APIs
+          │                     │
+          └──────────┬──────────┘
+                     ↓
+                    IoT
+                     ↓
+                 Database
+                     ↓
+              Web Dashboard
+```
+
+Projects such as **AttendX** and **ParkSense** allow me to explore how physical hardware can communicate with modern software systems.
 
 ---
 
@@ -187,15 +317,15 @@ Server-Side Rendering
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nayra-singh&show_icons=true&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayra-singh&layout=compact&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -223,17 +353,21 @@ Server-Side Rendering
 
 - Collaborated with fellow IEEE Student Branch members
 - Participated in student-led technical and organisational activities
-- Developed experience in **team collaboration, communication and responsibility**
+- Worked in a collaborative team environment
+- Developed experience in **communication, teamwork and responsibility**
 
 ---
 
 # 🎯 Currently Learning
 
 ```text
-☕ Advanced Java & OOP
-🧠 Data Structures & Algorithms
-🗄️ SQL & Database Fundamentals
-🌐 Full-Stack Web Development
+🔌 ESP32 & Embedded Systems
+📡 IoT Communication
+💻 C/C++ for Microcontrollers
+🌐 Next.js & TypeScript
+🗄️ PostgreSQL & Database Design
+🔗 REST API Development
+🐳 Docker Fundamentals
 ☁️ Cloud Technologies
 🤖 Generative AI Fundamentals
 ```
@@ -244,15 +378,89 @@ Server-Side Rendering
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Embedded_Systems-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Full--Stack_Development-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-
 </div>
+
+---
+
+# 🧩 What I'm Building
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 AttendX
+
+**Smart RFID Attendance Management System**
+
+Connecting:
+
+`RFID → ESP32 → REST API → PostgreSQL → Dashboard`
+
+Focus areas:
+
+- RFID
+- SPI
+- ESP32
+- IoT
+- Authentication
+- Database Design
+- Attendance Analytics
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🅿️ ParkSense
+
+**IoT Smart Parking & Real-Time Monitoring System**
+
+Connecting:
+
+`Sensor → ESP32 → REST API → PostgreSQL → Dashboard`
+
+Focus areas:
+
+- Sensors
+- ESP32
+- GPIO
+- IoT
+- Real-Time Monitoring
+- Data Analytics
+- Device Management
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 Development Goals
+
+```text
+Build stronger Embedded Systems fundamentals
+            ↓
+Develop practical IoT projects
+            ↓
+Connect hardware with backend systems
+            ↓
+Improve Full-Stack Development skills
+            ↓
+Learn Cloud & DevOps fundamentals
+            ↓
+Build production-oriented engineering projects
+```
 
 ---
 
@@ -266,12 +474,12 @@ Server-Side Rendering
 
 <div align="center">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nayra-singh)">
+<a href="https://www.linkedin.com/in/nayra-singh">
 <img src="https://img.shields.io/badge/LinkedIn-Nayra_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://github.com/nayra-singh">
+<img src="https://img.shields.io/badge/GitHub-nayra--singh-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:singhnayra364@gmail.com">
@@ -286,6 +494,12 @@ Server-Side Rendering
 
 ### ⭐ Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=nayra-singh&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=nayra-singh&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
+
+### 🔌 Electronics × 💻 Software × 🌐 IoT
+
+**Building practical systems one project at a time 🚀**
 
 </div>
