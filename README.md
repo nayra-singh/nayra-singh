@@ -182,3 +182,291 @@ PostgreSQL
 Responsive Web Development
 Git Version Control
 Docker Fundamentals
+🚀 Featured Projects
+🎓 AttendX — Smart RFID Attendance Management System
+
+An IoT-based smart attendance management system combining ESP32, RFID technology, REST APIs, PostgreSQL, and a modern web dashboard to automate and manage attendance.
+
+🔧 Tech Stack
+
+ESP32 RFID C/C++ Next.js TypeScript PostgreSQL Prisma REST API
+
+🏗️ System Architecture
+RFID Card / Tag
+       ↓
+MFRC522 RFID Reader
+       ↓
+      SPI
+       ↓
+     ESP32
+       ↓
+     Wi-Fi
+       ↓
+    REST API
+       ↓
+Next.js Application
+       ↓
+  Prisma ORM
+       ↓
+  PostgreSQL
+       ↓
+Attendance Dashboard
+✨ Highlights
+🔖 RFID-based student identification
+⚡ ESP32-based attendance terminal
+🔄 Hardware-to-server communication using REST APIs
+📡 Wi-Fi-based IoT communication
+👨‍🎓 Student and attendance management
+👨‍🏫 Faculty attendance-session management
+🗄️ PostgreSQL-backed attendance records
+🔐 Role-based authentication and authorization
+🛡️ Duplicate-attendance prevention
+📊 Attendance monitoring and analytics
+🖥️ Web-based management dashboard
+📝 Hardware and installation documentation
+💡 Engineering Concepts
+
+RFID • SPI • ESP32 • IoT • REST APIs • Database Design • RBAC • Embedded Systems
+
+<p> <a href="https://github.com/nayra-singh/attendx-smart-attendance"> <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+🅿️ ParkSense — IoT Smart Parking & Real-Time Monitoring System
+
+An IoT-powered smart parking system designed to detect parking-space occupancy using ESP32 and sensors while providing real-time parking availability through a web dashboard.
+
+🔧 Tech Stack
+
+ESP32 C/C++ IoT Sensors Next.js TypeScript PostgreSQL REST API
+
+🏗️ System Architecture
+      Vehicle
+         ↓
+   Parking Space
+         ↓
+ Distance Sensor
+         ↓
+       ESP32
+         ↓
+       Wi-Fi
+         ↓
+      REST API
+         ↓
+  Next.js Backend
+         ↓
+    PostgreSQL
+         ↓
+Real-Time Dashboard
+✨ Highlights
+🚗 Parking-space occupancy detection
+📡 ESP32-based IoT monitoring
+📏 Sensor-based distance measurement
+⚙️ Configurable occupancy thresholds
+🧠 Sensor filtering and state stabilisation
+🔄 Device-to-server communication
+🟢 Available / Occupied slot monitoring
+⚠️ Sensor-error and unknown-state handling
+❤️ Device heartbeat and online/offline monitoring
+📊 Historical occupancy analytics
+📈 Parking utilisation monitoring
+🖥️ Real-time parking dashboard
+🔐 Device authentication
+🗄️ PostgreSQL-backed parking-event storage
+💡 Engineering Concepts
+
+Sensors • GPIO • ESP32 • IoT • Distance Measurement • Signal Filtering • REST APIs • Database Design
+
+<p> <a href="https://github.com/nayra-singh/parksense-smart-parking"> <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+🎓 Certifications & Professional Learning
+🐘 PHP CodeIgniter 4 for Beginners: Build Full Blog System
+
+Udemy • Web Coding
+
+📅 Completed: July 27, 2026
+⏱️ Duration: 8.5 Hours
+
+Completed hands-on training in PHP web development using CodeIgniter 4 and built a database-driven blog application.
+
+🛠️ Technologies
+<p align="left"> <img src="https://skillicons.dev/icons?i=php,mysql,bootstrap" /> </p>
+
+PHP • CodeIgniter 4 • MySQL • Bootstrap • MVC • CRUD
+
+📚 Skills Strengthened
+🐘 PHP Web Development
+⚙️ CodeIgniter 4
+🏗️ MVC Architecture
+🗄️ MySQL Database Integration
+🔄 CRUD Operations
+🛣️ Routing
+✅ Form Validation
+🔐 Authentication
+📁 File Upload Handling
+🔎 Search Functionality
+🖥️ Admin Panel Development
+💻 Course Project
+
+Built a Full Blog Management System while learning how a PHP application can be organised using MVC architecture.
+
+User Interface
+      ↓
+   Routing
+      ↓
+ Controller
+      ↓
+    Model
+      ↓
+    MySQL
+      ↓
+     View
+🏆 Credential
+
+Certificate of Completion — Udemy
+
+Issued: July 27, 2026
+
+Credential ID: UC-4651e228-2012-4d69-a9bd-6ab23455c95b
+
+🌐 CSS, JavaScript, PHP and Python Programming — All-in-One Course
+
+Platform: Udemy
+Status: ✅ Completed
+
+Completed structured programming and web-development training covering CSS, JavaScript, PHP and Python.
+
+🛠️ Technologies Covered
+<p align="left"> <img src="https://skillicons.dev/icons?i=css,js,php,python" /> </p>
+
+CSS • JavaScript • PHP • Python
+
+📚 Skills Strengthened
+🎨 CSS & Web Styling
+⚡ JavaScript Programming
+🐘 PHP Programming
+🐍 Python Programming
+🌐 Web Development Fundamentals
+💻 Programming Fundamentals
+🎯 Learning Outcome
+
+Strengthened my programming and web-development foundations across multiple technologies, with additional practice in JavaScript, PHP, Python and CSS.
+
+🔗 ECE + Software Development
+
+One of my primary interests is connecting electronics with software engineering.
+
+                    ECE
+                     │
+          ┌──────────┴──────────┐
+          ↓                     ↓
+   Embedded Systems          Software
+          │                     │
+       ESP32              Web / Backend
+          │                     │
+    RFID / Sensors       Next.js / PHP
+          │                     │
+          └──────────┬──────────┘
+                     ↓
+                    IoT
+                     ↓
+              REST APIs
+                     ↓
+                  Database
+                     ↓
+               Web Dashboard
+
+Projects such as AttendX and ParkSense allow me to explore how physical hardware can communicate with modern software systems, while my web-development learning helps me understand the backend and user-facing layers of connected applications.
+
+📊 GitHub Statistics
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=nayra-singh&show_icons=true&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayra-singh&layout=compact&hide_border=true" /> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=nayra-singh&hide_border=true" /> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayra-singh&hide_border=true&area=true" /> </div>
+🤝 Leadership & Responsibility
+Executive Member — IEEE Student Branch, MMMUT
+
+📅 July 2024 – July 2025
+
+Collaborated with fellow IEEE Student Branch members
+Participated in student-led technical and organisational activities
+Worked in a collaborative team environment
+Developed experience in communication, teamwork and responsibility
+🎯 Currently Learning & Improving
+🔌 ESP32 & Embedded Systems
+📡 IoT Communication
+💻 C/C++ for Microcontrollers
+🌐 Next.js & TypeScript
+🐘 PHP & CodeIgniter 4
+🗄️ PostgreSQL & Database Design
+🔗 REST API Development
+🐳 Docker Fundamentals
+☁️ Cloud Technologies
+🤖 Generative AI Fundamentals
+🌱 Areas of Interest
+<div align="center"> <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Embedded_Systems-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Full--Stack_Development-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Backend_Development-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> </div>
+🧩 What I'm Building
+<table> <tr> <td width="50%" valign="top">
+🎓 AttendX
+
+Smart RFID Attendance Management System
+
+Connecting:
+
+RFID → ESP32 → REST API → PostgreSQL → Dashboard
+
+Focus Areas
+
+RFID
+SPI
+ESP32
+IoT
+Authentication
+Database Design
+Attendance Analytics
+</td> <td width="50%" valign="top">
+🅿️ ParkSense
+
+IoT Smart Parking & Real-Time Monitoring System
+
+Connecting:
+
+Sensor → ESP32 → REST API → PostgreSQL → Dashboard
+
+Focus Areas
+
+Sensors
+ESP32
+GPIO
+IoT
+Real-Time Monitoring
+Data Analytics
+Device Management
+</td> </tr> </table>
+🎯 Development Goals
+Strengthen Embedded Systems fundamentals
+            ↓
+Build practical IoT systems
+            ↓
+Connect hardware with backend applications
+            ↓
+Improve Full-Stack & Backend Development
+            ↓
+Strengthen PHP, JavaScript & TypeScript
+            ↓
+Learn Cloud & DevOps fundamentals
+            ↓
+Build production-oriented engineering projects
+💡 Development Philosophy
+
+"Learn the fundamentals, build practical solutions, and keep improving one commit at a time."
+
+📫 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/nayra-singh"> <img src="https://img.shields.io/badge/LinkedIn-Nayra_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/nayra-singh"> <img src="https://img.shields.io/badge/GitHub-nayra--singh-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:singhnayra364@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div> <br/> <div align="center">
+⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=nayra-singh&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
+
+🔌 Electronics × 💻 Software × 🌐 IoT
+
+Building practical systems one project at a time 🚀
+
+</div> ```
