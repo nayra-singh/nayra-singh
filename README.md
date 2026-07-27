@@ -318,6 +318,10 @@ User Interface
 Issued: July 27, 2026  
 Credential ID: `UC-4651e228-2012-4d69-a9bd-6ab23455c95b`
 
+<a href="https://www.udemy.com/certificate/UC-4651e228-2012-4d69-a9bd-6ab23455c95b/">
+  <img src="https://img.shields.io/badge/Verify_Certificate-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+</a>
+
 ---
 
 ### 🌐 CSS, JavaScript, PHP and Python Programming — All-in-One Course
