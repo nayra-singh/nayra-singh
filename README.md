@@ -322,56 +322,54 @@ Credential ID: `UC-4651e228-2012-4d69-a9bd-6ab23455c95b`
 
 ### 🌐 CSS, JavaScript, PHP and Python Programming — All-in-One Course
 
-**Platform:** Udemy  
-**Status:** ✅ Completed
+**Udemy • PROPER DOT INSTITUTE**
 
-Completed structured programming and web-development training covering CSS, JavaScript, PHP, and Python.
+📅 **Completed:** July 27, 2026  
+⏱️ **Duration:** 10 Hours
 
-**Technologies Covered:**
+> Completed structured programming and web-development training covering CSS, JavaScript, PHP and Python, strengthening my foundations across frontend, scripting and backend programming.
+
+### 🛠️ Technologies Covered
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=css,js,php,python" />
 </p>
 
-**Skills Strengthened:**
-- 🎨 **CSS & Web Styling**
-- ⚡ **JavaScript Programming**
-- 🐘 **PHP Programming**
-- 🐍 **Python Programming**
-- 🌐 **Web Development Fundamentals**
-- 💻 **Programming Fundamentals**
+`CSS` • `JavaScript` • `PHP` • `Python`
 
-**Learning Outcome:** Strengthened programming and web-development foundations across multiple technologies.
+### 📚 Skills Strengthened
 
----
+- 🎨 CSS & Web Styling
+- ⚡ JavaScript Programming
+- 🐘 PHP Programming
+- 🐍 Python Programming
+- 🌐 Web Development Fundamentals
+- 💻 Programming Fundamentals
+- 🧩 Problem Solving with Programming
+- 🔄 Client-Side Programming Fundamentals
+- ⚙️ Server-Side Programming Fundamentals
 
-## 🔗 ECE + Software Development
+### 🎯 Learning Outcome
 
-One of my primary interests is connecting electronics with software engineering.
+Strengthened my programming and web-development foundations across
+multiple technologies, with hands-on learning in **CSS, JavaScript,
+PHP and Python**.
 
-```
-                    ECE
-                     │
-          ┌──────────┴──────────┐
-          ↓                     ↓
-   Embedded Systems          Software
-          │                     │
-       ESP32              Web / Backend
-          │                     │
-    RFID / Sensors       Next.js / PHP
-          │                     │
-          └──────────┬──────────┘
-                     ↓
-                    IoT
-                     ↓
-              REST APIs
-                     ↓
-                  Database
-                     ↓
-               Web Dashboard
-```
+The course helped reinforce my understanding of how different
+programming technologies contribute to modern web application
+development.
 
-Projects like **AttendX** and **ParkSense** let me explore how physical hardware communicates with modern software systems, while my web-development learning helps me understand the backend and user-facing layers of connected applications.
+### 🏆 Credential
+
+**Certificate of Completion — Udemy**
+
+**Issued:** July 27, 2026
+
+**Credential ID:** `UC-5281deb3-5400-44c3-a8cd-e21cfd0bce11`
+
+<a href="https://www.udemy.com/certificate/UC-5281deb3-5400-44c3-a8cd-e21cfd0bce11/">
+  <img src="https://img.shields.io/badge/Verify_Certificate-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+</a>
 
 ---
 
